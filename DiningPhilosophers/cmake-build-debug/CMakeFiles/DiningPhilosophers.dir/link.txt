@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DiningPhilosophers.dir/main.cpp.o CMakeFiles/DiningPhilosophers.dir/Philosopher.cpp.o  -o DiningPhilosophers -lpthread -lncurses 

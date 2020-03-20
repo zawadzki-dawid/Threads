@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DiningPhilosophers" targetName="DiningPhilosophers" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf79336e-8aef-4464-b39c-4032b9f367e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Yu3KkRxbQx068vJ0zevSq9YK7K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DiningPhilosophers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DiningPhilosophers" TARGET_NAME="DiningPhilosophers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DiningPhilosophers" RUN_TARGET_NAME="DiningPhilosophers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf79336e-8aef-4464-b39c-4032b9f367e7" name="Default Changelist" comment="" />
+      <created>1583778589761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583778589761</updated>
+      <workItem from="1583778592398" duration="460000" />
+      <workItem from="1583779260538" duration="159000" />
+      <workItem from="1583779469763" duration="48000" />
+      <workItem from="1583779533626" duration="491000" />
+      <workItem from="1583831286020" duration="599000" />
+      <workItem from="1583958181075" duration="8795000" />
+      <workItem from="1584043742184" duration="1106000" />
+      <workItem from="1584562467601" duration="9222000" />
+      <workItem from="1584614747474" duration="9230000" />
+      <workItem from="1584659169192" duration="4330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584571614228">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="213" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584571614228" />
+    <state x="1146" y="331" width="515" height="444" key="EnvironmentVariablesDialog" timestamp="1584659862151">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1146" y="331" width="515" height="444" key="EnvironmentVariablesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584659862151" />
+    <state x="1192" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1584659959360">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1192" y="296" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1584659959360" />
+    <state width="1874" height="450" key="GridCell.Tab.0.bottom" timestamp="1584663566763">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="450" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584663566763" />
+    <state width="1874" height="450" key="GridCell.Tab.0.center" timestamp="1584663566762">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="450" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584663566762" />
+    <state width="1874" height="450" key="GridCell.Tab.0.left" timestamp="1584663566762">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="450" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584663566762" />
+    <state width="1874" height="450" key="GridCell.Tab.0.right" timestamp="1584663566763">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="450" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584663566763" />
+    <state width="914" height="344" key="GridCell.Tab.1.bottom" timestamp="1584580583164">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584580583164" />
+    <state width="914" height="344" key="GridCell.Tab.1.center" timestamp="1584580583164">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584580583164" />
+    <state width="914" height="344" key="GridCell.Tab.1.left" timestamp="1584580583164">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584580583164" />
+    <state width="914" height="344" key="GridCell.Tab.1.right" timestamp="1584580583164">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="344" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584580583164" />
+    <state x="898" y="188" key="SettingsEditor" timestamp="1584661547011">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="898" y="188" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1584661547011" />
+    <state x="1091" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584659216948">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1091" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1584659216948" />
+    <state x="257" y="217" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583778929948">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="257" y="217" width="432" height="620" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1583778929948" />
+    <state x="137" y="240" key="run.anything.popup" timestamp="1584662503601">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="137" y="240" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1584662503601" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Philosopher.h</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

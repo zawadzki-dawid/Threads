@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawid/CLionProjects/SO2/DiningPhilosophers/Philosopher.h
+iostream
+-
+semaphore.h
+-
+unistd.h
+-
+
+/home/dawid/CLionProjects/SO2/DiningPhilosophers/main.cpp
+iostream
+-
+pthread.h
+-
+semaphore.h
+-
+unistd.h
+-
+Philosopher.h
+/home/dawid/CLionProjects/SO2/DiningPhilosophers/Philosopher.h
+
